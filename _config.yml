@@ -2,15 +2,15 @@
 title: 'ELF的秘密基地-微博@SuperJunior1106_怦蓝心动打投组'
 description: '微博@SuperJunior1106_怦蓝心动打投组，专注SuperJunior打投。感谢大眼仔给我们Github追星新体验。规则不断在变，一切以微博最新更新为准。'
 keywords: 'your web keywords, another keywords'
-url: 'https://abc.github.io' # your host
+url: 'SuperJunior1106_怦蓝心动打投组' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   首页: '/'
-  标签: '/tags.html'
-  时间线: '/timeline.html'
-  关于博主: '/about.html'
-  友情链接: '/friendLink.html'
+  按标签: '/tags.html'
+  按时间: '/timeline.html'
+  关于我: '/about.html'
+  相关下载: '/friendLink.html'
 
 # 博主
 author: true
