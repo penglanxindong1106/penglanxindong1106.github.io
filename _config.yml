@@ -54,3 +54,8 @@ kramdown:
 highlighter: rouge
 # 代码高亮主题使用pygments主题: autumn\ default\ emacs\ friendly\ manni\ murphy\ pastie\ perldoc\ tango 任选一个你喜欢的主题名称填在下面的单引号中
 pygmentsTheme: 'default'
+
+# 友情链接
+friends:
+  回归期必备的APP打包（提取码suju）: 'https://pan.baidu.com/s/19xXZmG-SM_nCxp82VkmDlQ'
+ github备用站，要是这里都没了请来github找我（其实只有排版的区别，但太可爱了一定要让你们看看）: 'https://plxd1106.github.io/' 
