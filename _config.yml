@@ -3,3 +3,20 @@ title: 'ELF的秘密基地-微博@SuperJunior1106_怦蓝心动打投组'
 description: '微博@SuperJunior1106_怦蓝心动打投组，专注SuperJunior打投。感谢大眼仔给我们Github追星新体验。规则不断在变，一切以微博最新更新为准。'
 keywords: 'SuperJunior1106_怦蓝心动打投组'
 url: 'plxd1106.gitee.io' # your host
+# nav 中文字符空格：&emsp;
+nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
+  首页: '/'
+  按标签: '/tags.html'
+  按时间: '/timeline.html'
+  关于我: '/about.html'
+  相关下载: '/friendLink.html'
+
+# 博主
+author: true
+name: ' ELF的秘密基地'
+NickName: '微博@SuperJunior1106_怦蓝心动打投组'
+webtitle: 'For ELF：plxd1106.gitee.io'
+bio: '微博@SuperJunior1106_怦蓝心动打投组'
+about: true
+aboutyou: '最近大眼仔限流越来越频繁，很多过去的教程都莫名其妙被限流或设了权限，因此我们决定在这里备份教程和安装包，方便大家随时查阅。目前我们正在准备回归中，戳下方直达微博私信1获取加群链接~'
+portraits: '/assets/profile.jpeg' # your portraits image file path
