@@ -20,3 +20,37 @@ bio: '微博@SuperJunior1106_怦蓝心动打投组'
 about: true
 aboutyou: '最近大眼仔限流越来越频繁，很多过去的教程都莫名其妙被限流或设了权限，因此我们决定在这里备份教程和安装包，方便大家随时查阅。目前我们正在准备回归中，戳下方直达微博私信1获取加群链接~'
 portraits: '/assets/profile.jpeg' # your portraits image file path
+# SNS
+SNS: true
+SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
+  #mail: 
+  #weixin: '' # 你的微信二维码存放的地址
+  #qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
+  github: 'http://plxd1106.github.io'
+  #Codepen: ''
+  weibo: 'https://weibo.com/u/7328949300'
+  #instagram: ''
+  #Twitter: ''
+  #Dribbble: ''
+  #Facebook: ''
+  #Google: ''
+  #zhihu: ''
+  #juejin: ''
+  #twitch: ''
+
+# 分页
+paginate: 2
+paginatepath: ['page:num']
+
+# since
+footer:
+  since: 2019
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+# 代码高亮 使用rouge
+highlighter: rouge
+# 代码高亮主题使用pygments主题: autumn\ default\ emacs\ friendly\ manni\ murphy\ pastie\ perldoc\ tango 任选一个你喜欢的主题名称填在下面的单引号中
+pygmentsTheme: 'default'
