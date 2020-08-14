@@ -19,7 +19,7 @@ webtitle: 'For ELF：plxd1106.gitee.io'
 bio: '微博@SuperJunior1106_怦蓝心动打投组'
 about: true
 aboutyou: '最近大眼仔限流越来越频繁，很多过去的教程都莫名其妙被限流或设了权限，因此我们决定在这里备份教程和安装包，方便大家随时查阅。目前我们正在准备回归中，戳下方直达微博私信1获取加群链接~'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/profile.jpg' # your portraits image file path
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
