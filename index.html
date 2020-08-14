@@ -10,9 +10,27 @@ description: 偶尔营业，专注搞蓝。那些很冒险的梦，我们陪你�
 {% include boot.html %}
 <main>
     {% include title.html %}
-    <ul class="post-list">
-      {% include posts_paginator.html %}
+    <ul class="ex-list">
+        <li class="fadeInUp animated">
+        {% if site.author %}
+          <div class="portraits"><img src="{{ site.portraits }}" alt=""></div>
+          <span id="yourname">{{ site.name }}</span>
+          <span id="yourbio">{{ site.bio }}</span>
+          {% if site.about %}
+            <span id="aboutyou">{{ site.aboutyou }}</span>
+          {% endif %}
+        {% endif %}
+        {% if site.SNS %}
+          {% for sns-icon in site.SNS-icon %}
+            <a href="{{ sns-icon[1] }}" title="{{ sns-icon[0] }}">
+              <svg class="icon" aria-hidden="true">
+                <use xlink:href="#icon-{{ sns-icon[0] }}"></use>
+              </svg>
+            </a>
+          {% endfor%}
+        {% endif %}
+     
     </ul>
 </main>
-{% include pageNav.html %}
 {% include footer.html %}
+
