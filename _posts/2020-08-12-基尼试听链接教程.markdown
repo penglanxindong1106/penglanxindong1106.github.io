@@ -32,13 +32,13 @@ tags:
 
    KKT和apple ID（需要苹果设备，需绑定手机，但1个手机号可以绑不止1个）相对容易注册一些。
 
-   附：[KKT注册教程]([https://penglanxindong1106.github.io/2020/08/12/KKT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B.html](https://penglanxindong1106.github.io/2020/08/12/KKT注册教程.html))       [Apple id注册教程](https://zhuanlan.zhihu.com/p/93486646)       [开启双重认证的方法（本机上注册有时候不需要开也能上）](https://jingyan.baidu.com/article/a17d5285dafe398098c8f2a8.html)
+   附：[KKT注册教程]([https://plxd05.gitee.io/2020/08/12/KKT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B.html](https://penglanxindong1106.github.io/2020/08/12/KKT注册教程.html))       [Apple id注册教程](https://zhuanlan.zhihu.com/p/93486646)       [开启双重认证的方法（本机上注册有时候不需要开也能上）](https://jingyan.baidu.com/article/a17d5285dafe398098c8f2a8.html)
 
    <img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/image-20200818123632081.png" alt="image-20200818123632081" style="zoom:33%;" />
 
 3. 成功登录后出现下面的画面，点全部接受。部分机型可能出现不跳转/白屏的问题，可以关闭白屏的这个窗口回到第一个页面刷新再点登录，或是直接换火狐浏览器（推荐）。
 
-   <img src="C:/Users/Administrator/Desktop/Screenshot_2020-08-18-09-59-41-904_org.mozilla.fi.jpg" alt="Screenshot_2020-08-18-09-59-41-904_org.mozilla.fi" style="zoom:33%;" />
+   <img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/image-20200818171910625.png" alt="image-20200818171910625" style="zoom:33%;" />
 
 4. 如图所示填写注册信息进行注册，设置好ID之后需要点一下右边的灰色按钮确认是否重名。勾选下方的同意条款，下拉完成注册。
 
