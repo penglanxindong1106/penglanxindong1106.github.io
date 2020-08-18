@@ -4,6 +4,7 @@ title: 第一次赶上回归期应该做什么？
 date:   2005-11-06 22:12:30 +0800
 tags:
   - 回归期打投
+  - 必看
 ---
 
 # 第一次赶上回归期应该做什么？
@@ -37,7 +38,7 @@ QQ浏览器的设置方法如下图
 
 <img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/007ZZwvGly1gfkw02w18pj30nk2se1kx.jpg" alt="img" style="zoom:50%;" />
 
-<img src="https://wx4.sinaimg.cn/large/007ZZwvGly1gfl6xk6t1gj30nk2seb29.jpg" alt="img" style="zoom:50%;" />
+<img src="https://wx4.sinaimg.cn/large/007ZZwvGly1gfl6xk6t1gj30nk2seb29.jpg" alt="img" style="zoom: 33%;" />
 
 
 
@@ -51,13 +52,13 @@ QQ浏览器的设置方法如下图
 
 ## 五、回归期主要投票：（[各类APP打包提取码suju](https://pan.baidu.com/s/19xXZmG-SM_nCxp82VkmDlQ)）
 
-1. ##### THE SHOW（没去打歌就不用投）
+1. #### THE SHOW（没去打歌就不用投）
 
    事前投票5%：每周五19：00-第二周周一13：00
 
    实时投票10%：每周二17:05-18:05软件STARPLAY，可无限切号。
 
-2. ##### 冠军秀投票
+2. #### 冠军秀投票
 
    事前投票占比20%：每周四17:00-每周日23:00
 
@@ -67,7 +68,7 @@ QQ浏览器的设置方法如下图
 
    分韩网和全网，可切换线路进入。
 
-3. ##### MCD投票（没有就不用投）
+3. #### MCD投票（没有就不用投）
 
    事前投票10%：首周周五13:00-第二周周一08:00
 
@@ -81,7 +82,7 @@ QQ浏览器的设置方法如下图
 
    以上投票均可无限切号。23:00刷新
 
-4. ##### 音乐中心投票事前投票：
+4. #### 音乐中心投票事前投票：
 
    投票时间：第二周周一上午17:00至周五上午10:00
 
