@@ -1,0 +1,54 @@
+---
+layout: post
+title: 基尼试听链接教程
+date:   2020-08-12 22:12:30 +0800
+tags:
+  - 音源
+---
+
+# 基尼试听链接教程
+
+基尼试听链接是我们最近开始尝试的基尼音源打投方式，由打投组统一购买并放出Genie Link，利用手头现有的KKT/推特/脸书/苹果ID等对主打曲进行试听，该方法对冲音源榜单有一定作用。但我们仍然不建议完全用这种方法代替自己购买的账号的试听。
+
+
+
+### 一、准备用来点链接的账号（建议在歌曲发行之前就准备好）
+
+根据上次回归的数据，我们发现榜单和参与试听的账号数有一定关系，同一时段（实时/日/周）试听的账号数越多，越有助于榜单。因此我们的建议是准备**15个以上**任意途径的账号循环点击链接试听（**不要使用已经购买了套餐的号或者以前回归在打投组领的号，容易造成顶号**），按每首歌接近4分钟计算，加上换号需要的时间，可以保证每小时内号不重复。如果有更多账号，请尽量每日把手头的账号轮一遍。**号不够可以进各个打投组领号**，**即使账号不够也请务必坚持试听并循环换号，这对我们很重要。**
+
+
+
+**警告！通过此方法注册的账号不是实名账号，不可以用来充值套餐！！！**
+
+
+
+#### 步骤如下：
+
+1. 开启浏览器的无痕模式（这里是为了不需要清缓存就能换号）登录基尼官网[Genie.co.kr](Genie.co.kr)，**这里强烈建议使用火狐浏览器，火狐浏览器很少出现很多人遇到的白屏问题。**
+
+   <img src="D:%5CUserData%5CMy%20Documents%5CTencent%20Files%5C609875763%5CImage%5CC2C%5CAEB4E99928DA5B6CB94326E9E1A24398.png" alt="img" style="zoom: 50%;" />
+   
+2. 点击右上角人头，进入登录页面。这里提供了四种SNS登录方式，从下方选择你拥有的账号进行注册。
+
+   KKT和apple ID（需要苹果设备，需绑定手机，但1个手机号可以绑不止1个）相对容易注册一些。
+
+   附：[KKT注册教程]([https://penglanxindong1106.github.io/2020/08/12/KKT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B.html](https://penglanxindong1106.github.io/2020/08/12/KKT注册教程.html))       [Apple id注册教程](https://zhuanlan.zhihu.com/p/93486646)       [开启双重认证的方法（本机上注册有时候不需要开也能上）](https://jingyan.baidu.com/article/a17d5285dafe398098c8f2a8.html)
+
+   <img src="C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20200818123632081.png" alt="image-20200818123632081" style="zoom:33%;" />
+
+3. 成功登录后出现下面的画面，点全部接受。部分机型可能出现不跳转/白屏的问题，可以关闭白屏的这个窗口回到第一个页面刷新再点登录，或是直接换火狐浏览器（推荐）。
+
+   <img src="C:%5CUsers%5CAdministrator%5CDesktop%5CScreenshot_2020-08-18-09-59-41-904_org.mozilla.fi.jpg" alt="Screenshot_2020-08-18-09-59-41-904_org.mozilla.fi" style="zoom:33%;" />
+
+4. 如图所示填写注册信息进行注册，设置好ID之后需要点一下右边的灰色按钮确认是否重名。勾选下方的同意条款，下拉完成注册。
+
+   <img src="C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20200818123921466.png" alt="image-20200818123921466" style="zoom:33%;" />
+
+   
+
+   
+
+   
+
+
+
